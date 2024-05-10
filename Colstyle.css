@@ -1,0 +1,178 @@
+.container {
+	width:990px;
+	height:auto;
+	margin:auto;
+	
+	
+}
+.call {
+	float:right;
+	font-family:arial;
+	font-size:28pts;
+	margin-bottom:3px;
+
+	
+}
+
+hr {
+	width:990px;
+	
+	
+}
+.OnlyLogo {
+	margin-top:30px;
+	
+}
+nav ul {
+	list-style-type:none;
+	padding:0;
+	overflow:hidden;
+	background-color:black;
+	width:990pts;
+	height:57pts;
+	font-family:arial;
+	text-align:center;
+
+}
+nav li {
+	float:left;
+	font-family:arial;
+	font-size:28px;
+	padding-left:45px;
+	
+	
+
+	
+}
+li a {
+	display:block;
+	color:white;
+	text-align:center;
+	padding:14px 15px;
+	text-decoration:none;	
+	
+}
+
+li a:hover {
+	background-color:orange;
+	
+	
+}
+.con1 {
+	float:left;
+	margin-top:30px;
+	
+}
+.con2 {
+	float:left;
+	margin-left:20px;
+	margin-top:30px;
+}
+.con3 {
+	float:left;
+	margin-left:20px;
+	margin-top:30px;
+	
+}
+.contxt {
+	max-width:310px;
+	font-family:arial;
+	font-size:13pts;
+	
+}
+.head1 {
+	font-size:44pts;
+	font-family:arial;
+	
+}
+.head2 {
+	font-size:44pts;
+	font-family:arial;
+	
+}
+.head3 {
+	font-size:44pts;
+	font-family:arial;
+	
+}
+.active {
+	background-color:red;
+	
+}
+.toptext {
+	font-family:arial;
+	font-size:22pts;
+	
+}
+	
+.list {
+	float:left;
+	border:1px black solid;
+	text-align:left;
+	
+	
+}
+ol li {
+	list-style-type:none;
+	
+	
+}
+.List {
+	
+	
+	}
+.List h1 {
+	font-size:15px;
+	text-align:center;
+	
+}
+.Shirts {
+	float:left;
+	border:1px solid black;
+	margin-left:15px;
+	
+}
+.ShirtBreak {
+	float:left;
+	border:1px solid black;
+	margin-left:15px;
+	margin-top:25px;
+	
+}
+.ShirtBreak2 {
+	float:left;
+	border:1px solid black;
+	margin-left:15;
+	margin-top:25px;
+	
+	
+}
+.gallery {
+	margin:75px;
+	
+	
+}
+.bottomrow {
+	margin-left:40px;
+	
+}
+.bottomimage {
+	float:left;
+	margin-left:55px;
+	margin-top:25px;
+}
+.imagetext {
+	float:right;
+	max-width:300px;
+	margin-left:30px;
+	font-family:arial;
+}
+.imagetext h1 {
+	font-family:arial;
+	font-size:22pts;
+	margin-top:1px;
+	
+}
+hr {
+	
+}
